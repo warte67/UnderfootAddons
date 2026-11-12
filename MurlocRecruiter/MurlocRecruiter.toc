@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: Murloc Recruiter
+## Notes: Randomized recruitment advertisements for Full Metal Murloc.
+## Author: Underfoot & Sons
+## Version: 1.0.0
+
+MurlocRecruiter.lua
