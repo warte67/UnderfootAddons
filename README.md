@@ -1,5 +1,13 @@
 # UnderfootAddons
 
+*The Underfoot Clan Marketing Department — where
+quality assurance begins after the imp leaves the keyboard.*
+
+
+![Warte Underfoot attempts to write a guild recruitment
+advertisement while his imp improves the typing.](images/warte-imp-keyboard.png)
+
+
 **World of Warcraft addons from the Underfoot Clan.**
 
 *Useful tools. Questionable methods. Surprisingly few explosions.*
