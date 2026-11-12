@@ -5,7 +5,7 @@ quality assurance begins after the imp leaves the keyboard.*
 
 
 ![Warte Underfoot attempts to write a guild recruitment
-advertisement while his imp improves the typing.](images/warte-imp-keyboard.png)
+advertisement while his imp improves the typing.](images/Recruitment-Imp.png)
 
 
 **World of Warcraft addons from the Underfoot Clan.**
