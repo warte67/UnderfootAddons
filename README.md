@@ -38,6 +38,18 @@ A lightweight, manually triggered guild recruitment addon for **Full Metal Murlo
 
 The addon **does not automatically post on a timer**. A player must initiate each message. Please respect your server's chat and recruitment rules.
 
+
+## Download
+
+**[Download UnderfootAddons (ZIP)](https://github.com/warte67/UnderfootAddons/archive/refs/heads/master.zip)**
+
+Download the ZIP, extract it, and copy the desired addon folder
+(e.g., `MurlocRecruiter`) into your WoW `Interface/AddOns/`
+directory.
+
+You do not need Git or a GitHub account to download the addons.
+
+
 ## Installation
 
 1. Download or clone this repository.
