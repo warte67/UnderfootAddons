@@ -16,7 +16,7 @@ addon.config = {
     guildName = "Downtime", -- Guild Name
 
     -- Posting configuration
-    cooldown = 150,       -- Seconds between posts
+    cooldown = 300, -- Seconds between posts (5 minutes)
     maxChatLength = 255,   -- Maximum chat message length
 
     -- Recruitment advertisements
